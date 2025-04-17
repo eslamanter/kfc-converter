@@ -1,0 +1,14 @@
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC Converter.exe
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC Converter.xml
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC Converter.pdb
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\bin\Debug\KFC Converter.exe.manifest
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\bin\Debug\KFC Converter.application
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\bin\Debug\KFC Converter.exe
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\bin\Debug\KFC Converter.pdb
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\bin\Debug\KFC Converter.xml
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\ResolveAssemblyReference.cache
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC_Converter.Form1.resources
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC_Converter.Resources.resources
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC Converter.vbproj.GenerateResource.Cache
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC Converter.exe.manifest
+E:\ESL@M programs\KFC Converter\design\KFC Converter\KFC Converter\obj\Debug\KFC Converter.application
